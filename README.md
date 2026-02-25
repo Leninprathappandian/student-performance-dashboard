@@ -65,4 +65,4 @@ To identify key factors influencing student performance and present insights usi
 
 ##  Dashboard Preview  
 
-(Add screenshot below)
+https://github.com/Leninprathappandian/student-performance-dashboard/blob/main/Screenshot%202026-02-25%20073233.png?raw=true
