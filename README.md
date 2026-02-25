@@ -1,2 +1,3 @@
-# student-performance-dashboard
-Interactive Student Performance Dashboard | CodeAlpha Internship Project
+Internship Project – CodeAlpha
+
+This project analyzes student academic performance data and presents insights using an interactive dashboard.
